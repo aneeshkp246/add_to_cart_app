@@ -18,7 +18,6 @@ To clone the repository:
 git clone https://github.com/aneeshkp246/add_to_cart_app.git
 ```
 Navigate to the project directory:
-Execute the below command two times to navigate to the HTML file.
 
 ```
 cd add_to_cart_app
