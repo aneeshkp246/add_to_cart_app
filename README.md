@@ -15,7 +15,7 @@ A simple web application built with HTML, CSS, and JavaScript that allows users 
 To clone the repository:
 
 ```
-git clone 
+git clone https://github.com/aneeshkp246/add_to_cart_app.git
 ```
 Navigate to the project directory:
 
