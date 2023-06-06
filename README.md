@@ -1,1 +1,36 @@
-# add_to_cart_app
+# Add To Cart App
+
+A simple web application built with HTML, CSS, and JavaScript that allows users to create a shopping list and manage their cart items in real-time using Firebase Realtime Database. 
+
+# Features
+
+* Create a shopping list by adding items to the cart
+* Remove items from the cart
+* Real-time updates using Firebase Realtime Database
+* Responsive design for mobile and desktop screens
+* Easy-to-use interface
+
+# Installation 
+
+To clone the repository:
+
+```
+git clone 
+```
+Navigate to the project directory:
+
+```
+cd add_to_cart_app
+```
+Open the index.html file in your preferred web browser.
+
+# Technologies
+
+* HTML
+* CSS
+* JavaScript
+* Firebase Realtime Database
+
+# License
+
+This project is licensed under MIT License.
