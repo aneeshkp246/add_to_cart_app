@@ -23,6 +23,8 @@ Execute the below command two times to navigate to the HTML file.
 ```
 cd add_to_cart_app
 ```
+Add your Firebase Realtime Database URL to the Javascript file.
+
 Open the realindex.html file in your preferred web browser.
 
 # Technologies
