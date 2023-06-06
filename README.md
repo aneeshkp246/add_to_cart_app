@@ -22,7 +22,7 @@ Navigate to the project directory:
 ```
 cd add_to_cart_app
 ```
-Open the index.html file in your preferred web browser.
+Open the realindex.html file in your preferred web browser.
 
 # Technologies
 
